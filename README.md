@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="https://www.kaggle.com/code/hassanjameelahmed/intel-stock-price-full-historical-market-2000-2026" target="_blank">
     <img src="2008.png" alt="PepsiCo" alt="PepsiCo" width="500">
